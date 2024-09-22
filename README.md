@@ -8,24 +8,24 @@ Hi, welcome to my Data Analyst Portfolio! This repository showcases my data anal
 ## Projects
 
 ### 
-Description: 
+Description: Tableau Project
+- Tools: Tableau
+- Files: https://github.com/Swarna-Sree-chintha/Data-Analyst-portfolio/blob/main/Visuals/AirBnB%20Dashboard-%20Tableau.twbx
+
+### 
+Description: Data Cleaning and EDA using MySQL
 - Tools: MySQL
-- Files: [World Layoffs Data Cleaning](https://github.com/krystalbrantley/world_layoffs_data_analysis)
+- Files: https://github.com/Swarna-Sree-chintha/Data-Analyst-portfolio/tree/main/MySQL
 
 ### 
-Description: .
-- Tools: PostgreSQL, Python
-- Files: [Bike Rental Data Management](https://github.com/krystalbrantley/bike_rental_data_management)
-
-### 
-Description: 
+Description: Data Professionals Survey Dashboard
 - Tools: Power BI
-- Files: [Customer Churn Analysis](https://github.com/krystalbrantley/customer_churn_analysis)
+- Files: https://github.com/Swarna-Sree-chintha/Data-Analyst-portfolio/raw/refs/heads/main/Visuals/Data%20Professionals%20Survey%20Dashboard%20-%20Power%20BI.pbix
 
 ### 
-Description: 
-- Tools: Power BI
-- Files:  [HR Analytics Report](https://github.com/krystalbrantley/hr_analytics_report)
+Description:Bike Sales Dashboard
+- Tools: Excel
+- Files: https://github.com/Swarna-Sree-chintha/Data-Analyst-portfolio/raw/refs/heads/main/Visuals/Bike%20Sales%20Dashboard-%20Excel.xlsx
 
 ## Technologies Used
 
@@ -37,6 +37,6 @@ Description:
 
 For any questions or further information, please feel free to contact me:
 
-Gmail: 
+Gmail: chinthswarnasree@gmail.com
 
 Thank you for visiting my Data Analyst Portfolio Repository!
